@@ -1,0 +1,5 @@
+Pseudo-machine information.
+    1. 32-bit machine
+    2. Addresses are aligned to 16-bit
+    3. Word size = 1 - byte
+    4.
